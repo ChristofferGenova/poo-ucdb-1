@@ -18,6 +18,7 @@ public class Calculadora {
         // TODO code application logic here
         System.out.println("Calculadora teste");
         System.out.println("Outra linha");
+        System.out.println("Nao fez o codigo da calculadora");
     }
     
 }
